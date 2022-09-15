@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dreadnought_school_task/static/css/main.284ce5b2.css",
+    "main.js": "/dreadnought_school_task/static/js/main.2333c9dc.js",
+    "static/media/rashmitirke.png": "/dreadnought_school_task/static/media/rashmitirke.dc5c3b548fa30f0365e4.png",
+    "static/media/davidraum.png": "/dreadnought_school_task/static/media/davidraum.8ef6f83975ac674f0115.png",
+    "static/media/robnielsen.png": "/dreadnought_school_task/static/media/robnielsen.420383756de39cafe425.png",
+    "static/media/jasonmiller.svg": "/dreadnought_school_task/static/media/jasonmiller.28823509e694332483b508da815df81f.svg",
+    "static/media/raginimalhotra.svg": "/dreadnought_school_task/static/media/raginimalhotra.951b7a78fa019c73de21d2b53a47e22c.svg",
+    "static/media/baileecooper.svg": "/dreadnought_school_task/static/media/baileecooper.94ad64746b4ebdba7b116be9333ea1c6.svg",
+    "index.html": "/dreadnought_school_task/index.html",
+    "main.284ce5b2.css.map": "/dreadnought_school_task/static/css/main.284ce5b2.css.map",
+    "main.2333c9dc.js.map": "/dreadnought_school_task/static/js/main.2333c9dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284ce5b2.css",
+    "static/js/main.2333c9dc.js"
+  ]
+}
